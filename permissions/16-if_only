@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --from+CURRENT_OWNER NEW_OWNER FILE
+chown --from=guillaume vincent hello
